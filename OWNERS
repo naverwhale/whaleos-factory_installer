@@ -1,0 +1,2 @@
+# The factory_install is maintained by Chrome OS factory team.
+include chromiumos/platform/factory:/OWNERS
